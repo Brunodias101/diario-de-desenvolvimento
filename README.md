@@ -1,5 +1,7 @@
 # diario-de-desenvolvimento
 
+- Diário de desenvolvimento com logs diários do meu progresso em programação e aprendizado
+
 # Exemplo de logs
 
 # Log do Dia - dd/mm/aaaa
